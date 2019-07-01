@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dmitrymalkovich.android:material-design-dimens:1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e2052256cea24b3c1a2d3d134d48b970cd412ecb/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e2052256cea24b3c1a2d3d134d48b970cd412ecb/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dmitrymalkovich.android/material-design-dimens/1.2/ca52399dcbd95195c8a735c181d38bbceb7b1d37/material-design-dimens-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
